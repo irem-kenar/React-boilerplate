@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import webpack from 'webpack';
 import Jarvis from 'webpack-jarvis';
 
